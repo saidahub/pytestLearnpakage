@@ -1,0 +1,6 @@
+Sat, 13 Feb 2021 18:22:51 __init__.py[line:24] INFO item.name : test_encode[哈利波特]
+Sat, 13 Feb 2021 18:22:51 __init__.py[line:25] INFO item._nodeid : test_encode.py::test_encode[哈利波特]
+Sat, 13 Feb 2021 18:22:51 __init__.py[line:24] INFO item.name : test_encode[凯特]
+Sat, 13 Feb 2021 18:22:51 __init__.py[line:25] INFO item._nodeid : test_encode.py::test_encode[凯特]
+Sat, 13 Feb 2021 18:22:51 test_encode.py[line:7] INFO 测试数据：哈利波特
+Sat, 13 Feb 2021 18:22:51 test_encode.py[line:7] INFO 测试数据：凯特
